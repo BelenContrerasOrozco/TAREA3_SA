@@ -29,7 +29,7 @@ Este proyecto es una API RESTful desarrollada con Node.js y Express, que permite
 ---
 
 ##  Estructura del proyecto
-
+```
 ├── src/
 │ ├── config/ # Configuración de base de datos
 │ ├── models/ # Modelos Sequelize
@@ -40,8 +40,7 @@ Este proyecto es una API RESTful desarrollada con Node.js y Express, que permite
 ├── .env # Variables de entorno (DB config)
 ├── server.js # Punto de entrada
 └── collection.postman.json # Colección para pruebas en Postman
-
-
+```
 ---
 
 ##  Rutas disponibles
