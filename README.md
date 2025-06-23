@@ -30,7 +30,7 @@ Este proyecto es una API RESTful desarrollada con Node.js y Express, que permite
 
 ##  Estructura del proyecto
 ```
-├── src/
+├── API/src/
 │ ├── config/ # Configuración de base de datos
 │ ├── models/ # Modelos Sequelize
 │ ├── controllers/ # Lógica de entrada de rutas
